@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>moving</name>
+  <version>1.0.0</version>
+  <description>moving the rover with keyboard</description>
+
+  <maintainer email="namniart@gmail.com">Hamdy Sarhan</maintainer>
+
+  <license>BSD</license>
+
+  
+
+  <author>Hamdy Sarhan</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>rospy</run_depend>
+</package>
